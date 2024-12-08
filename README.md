@@ -366,4 +366,5 @@ jpackage --input target \
 
 **Programming in Java**  
 **Faculty of Electrical Engineering and Information Technology of STU in Bratislava**
-```
+
+---
