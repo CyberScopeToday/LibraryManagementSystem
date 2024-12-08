@@ -1,7 +1,6 @@
 # 📚 Library Management System
 
-![image](https://github.com/user-attachments/assets/261cea60-5a6c-463c-897b-d8ceb27cd499)
-<img src="" width="50%">
+<img src="https://github.com/user-attachments/assets/261cea60-5a6c-463c-897b-d8ceb27cd499" width="60%">
 
 ## 📑 Table of Contents
 - [📖 Общая информация](#📖-общая-информация)
@@ -44,41 +43,39 @@ Library Management System — это веб-приложение для упра
 
 #### 🖋️ Авторы
 **Доступные операции:**
-- ➕ Добавить нового автора
-<img src="https://github.com/user-attachments/assets/08a97a4d-5300-40d2-9280-aeb256827765" width="50%">
-
-- ✏️ Редактировать и обновлять автора
-<img src="https://github.com/user-attachments/assets/bfad4634-d17a-4fa9-a37d-c382e393a464" width="50%">
-
-- 🗑️ Удалить автора
-![image]()
-<img src="https://github.com/user-attachments/assets/6d9a1fd4-c72d-45bb-bd67-c8ceee88a3ac" width="50%">
-- 👀 Просмотреть всех авторов (с поиском, сортировкой и пагинацией)
-![image](https://github.com/user-attachments/assets/c4f8dd5f-1592-4392-a6c9-523628dcf08c)
-<img src="" width="50%">
+- ➕ Добавить нового автора  
+  <img src="https://github.com/user-attachments/assets/08a97a4d-5300-40d2-9280-aeb256827765" width="40%">
+- ✏️ Редактировать и обновлять автора  
+  <img src="https://github.com/user-attachments/assets/bfad4634-d17a-4fa9-a37d-c382e393a464" width="40%">
+- 🗑️ Удалить автора  
+  <img src="https://github.com/user-attachments/assets/6d9a1fd4-c72d-45bb-bd67-c8ceee88a3ac" width="40%">
+- 👀 Просмотреть всех авторов (с поиском, сортировкой и пагинацией)  
+  <img src="https://github.com/user-attachments/assets/c4f8dd5f-1592-4392-a6c9-523628dcf08c" width="40%">
 
 #### 🗂️ Категории
 **Доступные операции:**
 - ➕ Добавить новую категорию
-![image](https://github.com/user-attachments/assets/246accd2-1673-4287-9f16-e80530f5a025)
+- <img src="https://github.com/user-attachments/assets/246accd2-1673-4287-9f16-e80530f5a025" width="50%">
 - ✏️ Редактировать и обновлять категорию
-<img src="" width="50%">
-![image](https://github.com/user-attachments/assets/c19e047e-29ac-4fd7-b474-ab6421277034)
+- <img src="https://github.com/user-attachments/assets/c19e047e-29ac-4fd7-b474-ab6421277034" width="50%">
 - 🗑️ Удалить категорию
-<img src="" width="50%">
-![image](https://github.com/user-attachments/assets/d241ba90-394b-4713-81d7-648d72547f4c)
+- <img src="https://github.com/user-attachments/assets/d241ba90-394b-4713-81d7-648d72547f4c" width="50%">
 - 👀 Просмотреть все категории (с поиском, сортировкой и пагинацией)
-<img src="" width="50%">
-![image](https://github.com/user-attachments/assets/0c7a694c-b0f7-469f-b9ee-7fadc1bf1f7f)
+- <img src="https://github.com/user-attachments/assets/0c7a694c-b0f7-469f-b9ee-7fadc1bf1f7f" width="50%">
 
 #### 📖 Работы <img src="" width="50%">
 **Доступные операции:**
 - ➕ Добавить новую работу
-
+- <img src="https://github.com/user-attachments/assets/a059b3e2-ab33-477c-8ed3-0a80eb4ace5c" width="50%">
 - ✏️ Редактировать и обновлять работу
+- <img src="https://github.com/user-attachments/assets/f69d3439-13fe-472c-8d29-d0747d149c5d" width="50%">
+
 - 🗑️ Удалить работу
+- <img src="" width="50%">
 - 👀 Просмотреть все работы (с поиском, фильтрацией, сортировкой и пагинацией)
+- <img src="" width="50%">
 - 📦 Просмотреть все копии книг конкретной работы (с поиском, фильтрацией и пагинацией)
+- <img src="" width="50%">
 
 #### 📕 Книги
 **Доступные операции:**
