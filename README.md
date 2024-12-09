@@ -1,4 +1,5 @@
 # 📚 Library Management System for STU
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/librarymanagementsystem/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/librarymanagementsystem)
 
 ‼️ [🇺🇸 English Version](./README_EN.md) ‼️
 ‼️ [🇸🇰 Slovak Version](./README_SK.md) ‼️
