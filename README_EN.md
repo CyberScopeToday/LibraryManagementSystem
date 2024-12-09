@@ -1,5 +1,22 @@
 # 📚 Library Management System for STU
 
+### 🛠️🧪 Test Environments
+
+For easy testing and demonstration, the following environments are available:
+
+- **Local Application Instance:**
+  - [http://158.101.219.58:8080/?continue](http://158.101.219.58:8080/?continue)
+  - This environment allows interactive testing of application features directly through the web browser.
+  - **Default Credentials:**
+    - **Email:** `tester@tester.com`
+    - **Password:** `password`
+
+- **Live Demo Application:**
+  - [https://murzin.tech/?continue](https://murzin.tech/?continue)
+  - Access to the fully functional version of the library management system, where you can try out all available features and verify their correct implementation.
+  - **Default Credentials:**
+    - **Email:** `tester@tester.com`
+    - **Password:** `password`
 ![Library Management System Overview](https://github.com/user-attachments/assets/261cea60-5a6c-463c-897b-d8ceb27cd499)
 
 ## 📑 Table of Contents
