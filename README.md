@@ -1,5 +1,7 @@
 # 📚 Library Management System for STU
 
+‼️ [🇺🇸 English Version](./README_EN.md) ‼️
+
 <img src="https://github.com/user-attachments/assets/261cea60-5a6c-463c-897b-d8ceb27cd499" width="60%" alt="Обзор системы управления библиотекой">
 
 ## 📑 Table of Contents
